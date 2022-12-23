@@ -1,24 +1,8 @@
-import React, { createContext, useContext } from "react";
+import { createContext, useContext } from "react";
 import Youtube from "api/youtube";
 
-type YoutubeApi = {
-  youtube: Youtube;
-};
+type YoutubeApi = { youtube: Youtube };
 
-const youtube = new Youtube();
+export const YoutubeApiContext = createContext<YoutubeApi | null>(null);
 
-const YoutubeApiContext = createContext<YoutubeApi>({ youtube });
-
-export function YoutubeApiProvider({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return (
-    <YoutubeApiContext.Provider value={{ youtube }}>
-      {children}
-    </YoutubeApiContext.Provider>
-  );
-}
-
-export const useYoutubeApi = () => useContext(YoutubeApiContext);
+export const useYoutubeApi = () => useContext(YoutubeApiContext) as YoutubeApi;
