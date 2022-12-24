@@ -2,9 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useYoutubeApi } from "context/YoutubeApiContext";
 import VideoCard from "./VideoCard";
 
-type RelatedVideosProps = {
-  id: string;
-};
+type RelatedVideosProps = { id: string };
 
 export default function RelatedVideos({ id }: RelatedVideosProps) {
   const { youtube } = useYoutubeApi();
