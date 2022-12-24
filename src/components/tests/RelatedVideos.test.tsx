@@ -20,8 +20,8 @@ describe("RelatedVideos", () => {
     const { asFragment } = renderRelatedVideos();
 
     // 로딩이 없어질 때까지 기다렸다가
-    await waitForElementToBeRemoved(() => screen.getByText("Loading..."));
-    // await waitFor(() => screen.getAllByRole("listitem"));
+    await waitForElementToBeRemoved(screen.queryByText("Loading..."));
+    // await screen.findAllByRole("listitem")
     expect(asFragment()).toMatchSnapshot();
   });
 
@@ -41,9 +41,7 @@ describe("RelatedVideos", () => {
     });
     renderRelatedVideos();
 
-    await waitFor(() => {
-      expect(screen.getByText("Something is wrong 😣")).toBeInTheDocument();
-    });
+    await screen.findByText("Something is wrong 😣");
   });
 
   it("renders loading", () => {

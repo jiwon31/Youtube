@@ -1,4 +1,4 @@
-import { render, screen, waitFor } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import ChannelInfo from "components/ChannelInfo";
 import { Route } from "react-router-dom";
 import { withAllContext, withRouter } from "tests/utils";
@@ -13,7 +13,7 @@ describe("ChannelInfo", () => {
     fakeYoutube.channelImageURL.mockImplementation(() => "url");
     const { asFragment } = renderChannelInfo();
 
-    await waitFor(() => screen.getByRole("img"));
+    await screen.findByRole("img");
     expect(asFragment()).toMatchSnapshot();
   });
 
@@ -30,7 +30,7 @@ describe("ChannelInfo", () => {
     fakeYoutube.channelImageURL.mockImplementation(() => "url");
     renderChannelInfo();
 
-    await waitFor(() => expect(screen.getByRole("img")).toBeInTheDocument());
+    await screen.findByRole("img");
   });
 
   function renderChannelInfo() {
