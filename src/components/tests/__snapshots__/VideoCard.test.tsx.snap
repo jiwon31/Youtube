@@ -24,7 +24,7 @@ exports[`VideoCard renders grid type correctly 1`] = `
     <p
       className="text-xs opacity-80"
     >
-      2 weeks ago
+      3 weeks ago
     </p>
   </div>
 </li>
@@ -54,7 +54,7 @@ exports[`VideoCard renders list type correctly 1`] = `
     <p
       className="text-xs opacity-80"
     >
-      2 weeks ago
+      3 weeks ago
     </p>
   </div>
 </li>

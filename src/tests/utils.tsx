@@ -1,8 +1,18 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { YoutubeApiContext } from "context/YoutubeApiContext";
 import { MemoryRouter, Routes } from "react-router-dom";
+import { VideoMetadata } from "types/video-type";
 
-export function withRouter(routes: React.ReactElement, initialEntry = "/") {
+type Location = {
+  pathname: string;
+  state: { video: VideoMetadata };
+  key: string;
+};
+
+export function withRouter(
+  routes: React.ReactElement,
+  initialEntry: Location | string = "/"
+) {
   return (
     <MemoryRouter initialEntries={[initialEntry]}>
       <Routes>{routes}</Routes>

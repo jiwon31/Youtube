@@ -25,7 +25,7 @@ exports[`RelatedVideos renders 1`] = `
         <p
           class="text-xs opacity-80"
         >
-          2 weeks ago
+          3 weeks ago
         </p>
       </div>
     </li>
@@ -51,7 +51,7 @@ exports[`RelatedVideos renders 1`] = `
         <p
           class="text-xs opacity-80"
         >
-          2 weeks ago
+          3 weeks ago
         </p>
       </div>
     </li>

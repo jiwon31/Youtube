@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound renders 1`] = `
+<h2>
+  Not Found🥲
+</h2>
+`;
