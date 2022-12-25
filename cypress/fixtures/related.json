@@ -1,0 +1,1063 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3SSUggTMHIu-eCmcwp-73E0d7m0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 166,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iTekwghsfjoze4WIR6iDKg-MxQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SVB3SZKC8I4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T17:14:41Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "Related Video",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nEvy is a multimedia journalist who regularly appears on the Today Show, NBC, MSNBC, and GMA covering topics on national security, law enforcement, and crime. She holds a Master of Arts in Forensic Psychology and a Master of Science in Journalism from Columbia University. Evy’s actions as a first responder during the 9/11 terror attacks on the World Trade Center in New York City bestowed her the United States Secret Service Valor Award.\n\nAs a member of the most prestigious protection force in the world for over 12 years, Evy served on the Secret Service’s Presidential Protective Division for President Barack Obama and First Lady Michelle Obama. When not safeguarding the world’s most high value assets, Evy worked complex criminal investigations, operated undercover, and was an interrogator for the agency’s elite polygraph unit specially trained in the art of lie detection, human behavior, and cognitive influence.\n\n—\n\nIf you’re ready to learn how to get more comfortable with confrontation, how to better read people’s true intentions, the difference between a disagreement and being competitive, and more, then I know you’ll gain a ton of value from my wide-ranging conversation with Evy. And now, let’s jump into Episode 1,270 of The School of Greatness!\n\n“When people feel comfortable with you, they will challenge you more.\" @evypoumpouras\n \nSOME QUESTIONS I ASK:\nWhat are things people can do to own and regain their confidence?\nWhat happens when people avoid conflict?\nWhat should we be thinking about every time we meet someone new?\nWhat are the key strategies to mastering your relationships?\nWhat is the difference== between unconditional and conditional trust?\nIN THIS EPISODE, YOU WILL LEARN:\nThe difference between a disagreement and being competitive. \nHow to feel more comfortable addressing a conflict.\nHow to master your relationships.\nWhy you should trust people conditionally.\nPlus much more…\n\nYou don't want to miss this!!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SVB3SZKC8I4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SVB3SZKC8I4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SVB3SZKC8I4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SVB3SZKC8I4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SVB3SZKC8I4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T17:14:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AM5H3gZBFM0MZyddQ4YhYljqG6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NLslB13b7GM"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-30T15:19:43Z",
+        "channelId": "UCwW1mSAqDhFQuwRZtaCY2Hw",
+        "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges",
+        "description": "Amy Cuddy was the keynote speaker on April 24, 2015 at the Institute for Social Sciences conference series Leading Research in the Social Sciences Today. Cuddy is a social psychologist and associate professor at Harvard Business School.\n\nThe 2015 ISS conference series showcased world-class research by social scientists across UC Davis and by top researchers from across the country. Each day of the conference focused on a unique aspect of inquiry, including people in societies, perceptions and reality and the role of social networks in decision making.\n\nLearn more about the series at http://socialscience.ucdavis.edu/conference.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLslB13b7GM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLslB13b7GM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLslB13b7GM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NLslB13b7GM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NLslB13b7GM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UC Davis Social Sciences",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-30T15:19:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dq2nYT_AZErxh-UD5McnlAMNGt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A3V1ObCvVgU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-04T15:03:22Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "How To INSTANTLY IMPROVE Self-Esteem & MANIFEST ABUNDANCE | Marisa Peer",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nDownload podcast episodes a week early! http://www.lewishowes.com/pod\nIf you want to learn how to overcome negativity and start living life on your terms then watch the full interview with Marisa Peer. \n\nBe sure to subscribe for more - https://www.youtube.com/user/lewishowes?sub_confirmation=1\n\nCheck Out The School Of Greatness - https://lewishowes.com/start-here/\n\nMarisa Peer was listed in Tatler’s Guide to Britain’s 250 Best Practitioners and was the only woman on the Men’s Health’s list “Best of British.” She has spent 25+ years working with an extensive client list, including royalty, rock stars, actors, professionals, Olympic athletes, CEOs, and media personalities. She has developed her own style that is frequently referred to as “life-changing.”\n\nMarisa also studied hypnotherapy at the Hypnotism Training Institute of Los Angeles, known as the best hypnotherapy training establishment in the world. She developed her own brand of treatment, Rapid Transformational Therapy, which is a combination of hypnosis, neuro-linguistic programming, and cognitive behavioral therapy. By guiding her patients into a state of relaxation and hypnosis, Marisa Peer is better able to find the root of psychological distress and provide suggestions in order to heal that distress. \n\nMarisa Peer also started the radical #iamenough movement. By just saying those three words repeatedly — “I am enough” — you can change your brain’s thought patterns and come to a place of self-love.  \n\nMarisa is the bestselling author of several books, including I Am Enough: Mark Your Mirror and Change Your Life, and makes frequent appearances on TV and radio. She’s helped thousands of people overcome a variety of issues, and is motivated to train others to do the same. Marisa Peer joined me on The School of Greatness back on Episode 695, and it definitely has been one of my most popular episodes to date! I was honored to have Marisa Peer return and speak again about the power of positivity in achieving our goals. \n\nOur thoughts have power over us. But we can have power over our thoughts.\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A3V1ObCvVgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A3V1ObCvVgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A3V1ObCvVgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A3V1ObCvVgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A3V1ObCvVgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-04T15:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PM2vdzLc4_JZSfokCrkvQMUiWyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6JtXeBei13g"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-10T18:39:20Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "DO THESE 3 Things For 7 Days & See INCREDIBLE RESULTS! | Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nCheck out my full interview on Impact Theory - https://www.youtube.com/watch?v=hk-1lkVQiXc&t=1252s\n\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6JtXeBei13g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6JtXeBei13g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6JtXeBei13g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6JtXeBei13g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6JtXeBei13g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-10T18:39:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3288ObP6FMdiCOpOcHPSbHgI6n4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7lLLOjIiIAM"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-09T23:06:54Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "The 5 BIG SIGNS That Relationship WON'T LAST! | Esther Perel & Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nDownload podcast episodes a week early! http://www.lewishowes.com/pod\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7lLLOjIiIAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7lLLOjIiIAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7lLLOjIiIAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7lLLOjIiIAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7lLLOjIiIAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-09T23:06:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ptqiAij1-o3JprtJukioNoDWIU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jMJ37orRk9Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T23:07:40Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "Therapist REVEALS Why Finding Love Is SO HARD...| Lori Gottlieb & Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nGet Lori's new book - https://lorigottlieb.com/books/\n\nLori Gottlieb is a psychotherapist and New York Times bestselling author of Maybe You Should Talk to Someone, which has sold over a million copies and is currently being adapted as a television series for ABC.\n\nIn addition to her clinical practice, she is co-host of the popular “Dear Therapists” podcast produced by Katie Couric and writes The Atlantic’s weekly “Dear Therapist” advice column. She is a sought-after expert in media such as The Today Show, Good Morning America, CBS This Morning, CNN, and NPR’s “Fresh Air” and her recent TED Talk was one of the Top 10 Most Watched of the Year. \n\n—\n\nNo matter if you’re currently in a relationship, still searching to find the right partner, or just curious about the topic, I think you’ll find value in Lori and I’s discussion. If you’re ready to get one step closer to finding the love you want in your life, then I encourage you to listen to it. Please join me for Episode 1,190 of The School of Greatness!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jMJ37orRk9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jMJ37orRk9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jMJ37orRk9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jMJ37orRk9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jMJ37orRk9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T23:07:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yykw-zoFn1UHud7qi8wf0CQZsUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RVmMeMcGc0Y"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-08T03:35:50Z",
+        "channelId": "UC8BsZzHi2StUa0bI8WWKJeA",
+        "title": "Amy Cuddy TED Talk - Fake it Till You Make it",
+        "description": "This is an edited version of Amy Cuddy's 2012 Ted Talk. It is used at a career readiness and confidence workshop monthly hosted by Flourish Wilkes Barre.  Find the full version here: http://www.ted.com/playlists/171/the_most_popular_talks_of_all?gclid=CK_WisD44s0CFYsehgod0vcPeQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RVmMeMcGc0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RVmMeMcGc0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVmMeMcGc0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RVmMeMcGc0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RVmMeMcGc0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sara Moore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-08T03:35:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7tRi7uSWsmUdUnUDodAm8jO9uu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "phcDQ0H_LnY"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-02T16:35:32Z",
+        "channelId": "UCOzfWnT6veqbYZqdGiuBe8w",
+        "title": "Amy Cuddy: Power Poses",
+        "description": "Amy Cuddy revealed that we can actually change feelings we have about our own status through the physical positions we take with our bodies. Her research participants had higher levels of testosterone and lower levels of cortisol after only two minutes in a \"power pose\". Cuddy asked if such findings can have wider implications for empowerment training.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "PopTech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-02T16:35:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KSzUkbs6kfEZtYfhe2fkhEXYfGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gu7awUtecsc"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-30T13:00:04Z",
+        "channelId": "UCKmkpoEqg1sOMGEiIysP8Tw",
+        "title": "Simple But POWERFUL Ways to RAISE Your CONFIDENCE to Another LEVEL! | Tony Robbins",
+        "description": "Get Ready! Your breakthrough awaits with Tony Robbins: https://goo.gl/fgEgD8\n\nCheck out Tony's Latest Books:\n* Unshakeable: https://amzn.to/2AHV1NU\n* Money Master the Game: https://amzn.to/2JylikA\n* Notes from a Friend: https://amzn.to/2RvLnDL\n* Awaken the Giant Within: https://amzn.to/2JySTLt\n* Unlimited Power: https://amzn.to/2Dj5GkW \n\n✎ Today we're learning from Tony Robbins on how to create massive confidence! Enjoy. :)\n\n★★★ SECRET BONUS VIDEO ★★★\nWhat is the One Word that is most important to Tony Robbins, Gary Vaynerchuk, will.iam, Oprah Winfrey, and Howard Schultz? Find out here: http://www.evancarmichael.com/onewordbonusvideo/\n\n❤ HELP TRANSLATE THIS VIDEO ❤\nIf you loved this video, help people in other countries enjoy it too by making captions for it. Spread the love and impact. \nhttps://www.youtube.com/timedtext_video?v=gu7awUtecsc\n\n★ MORE RECOMMENDED VIDEOS FOR YOU ★\nIf you enjoyed this video, you may enjoy these other videos from Evan Carmichael:\n• Tony Robbins's Top 10 Rules For Success - https://youtu.be/O9F19ban7A4\n• Tony Robbins: How to deal with STRESS and DEPRESSION - https://youtu.be/ehETURbggQo\n• 9 SURPRISING FACTS About Tony Robbins - https://youtu.be/EcSVdqLvS24\n\n✔ SOURCES ✔\n[marlothomas] - How To Get Over Shyness - https://youtu.be/sRAn3FIkYq0\n[Fox5NY] - Tips On Changing The Way You Feel - https://youtu.be/GL9OnmmjkCk\n[Tony Robbins]\nInterview with Frank Kern and John Reese - https://youtu.be/0ImIuAvkUMo\nHow to step up and be a force for good - https://youtu.be/uoZxtJuU8aE\n[gede0607] - Shift Your Focus - The Power of Questions - https://youtu.be/Yr7Wkz7W7Vs\n[OWN] - Creating an Extraordinary Quality of Life - https://youtu.be/H-1cwcrg1Ks\n\n♛ BUY MY BOOK, CHANGE YOUR LIFE  ♛\nSome used the ideas in this book to build multi-billion-dollar businesses. I'll give you the simple-yet-powerful formula that they used (and you can) to realize your dreams. Get yours.\nhttp://www.evancarmichael.com/oneword/\n\n✉  JOIN MY #BELIEVE NEWSLETTER  ✉\nThis is the best way to have entrepreneur gold delivered to your inbox, and to be inspired, encouraged and supported in your business. Join #BelieveNation and feel the love. \nhttp://www.evancarmichael.com/newsletter/\n\n⚑ SUBSCRIBE TO MY CHANNEL ⚑\nIf you want to do great things you need to have a great environment. Create one by subbing and watching daily. \nhttp://www.youtube.com/subscription_center?add_user=Modelingthemasters\n\n¿  COMMON QUESTIONS  ¿\n• What is #BTA?: https://www.youtube.com/watch?v=BsY8bmTUVP8\n• How do I get one of Evan's t-shirts?: http://evancarmichael.com/gear\n• Why does Evan look like Nicolas Cage?: https://www.youtube.com/watch?v=gZHRniTcRwo\n• Why does Evan make so many videos? https://www.youtube.com/watch?v=NEKxGA8xr1k\n• How do I vote for the next Top 10 video Evan should make?\nhttps://www.youtube.com/watch?v=0arZb0xLIDM\n\nツ  CONNECT WITH ME  ツ\nLeave a comment on this video and it'll get a response. Or you can connect with me on different social platforms too:\n• Instagram: https://www.instagram.com/evancarmichael/\n• Twitter: https://twitter.com/evancarmichael\n• Facebook: https://www.facebook.com/EvanCarmichaelcom\n• Website: http://www.evancarmichael.com \n\n.: MORE ABOUT ME PERSONALLY :.\n• About: http://www.evancarmichael.com/about/\n• Coaching: http://www.evancarmichael.com/movement/\n• Speaking: http://www.evancarmichael.com/speaking/\n\n-----------------------------------------------------------------------------\n\nThank you for watching - I really appreciate it :)\nCheers,\nEvan\n#Believe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gu7awUtecsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gu7awUtecsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu7awUtecsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gu7awUtecsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gu7awUtecsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Evan Carmichael",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-30T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2R_IR7sQgzZp9qLe_mGKtplR0pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "McjeOAqkkJk"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-20T20:54:35Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "\"These HEALTHY Foods Will COMPLETELY HEAL YOUR BODY!\" | Mark Hyman & Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nDownload podcast episodes a week early! http://www.lewishowes.com/pod\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nDr. Mark Hyman is leading a health revolution—one revolved around using food as medicine to support longevity, energy, mental clarity, happiness, and so much more.\n\nDr. Hyman is a practicing family physician and an internationally recognized leader, speaker, educator, and advocate in the field of Functional Medicine. He’s the founder and director of The UltraWellness Center, is the Head of Strategy and Innovation of the Cleveland Clinic Center for Functional Medicine, AND is the Board President for Clinical Affairs for The Institute for Functional Medicine.\n\nSomehow, in the midst of all this, he’s a twelve-time New York Times bestselling author. He’s also a regular medical contributor on several television shows and networks, including CBS This Morning, the Today Show, Good Morning America, The View, The Dr. Oz Show, and CNN.\n\nAnd, as if all that weren’t enough, Dr. Mark Hyman hosts the leading health podcast The Doctor’s Farmacy. On his podcast, he shares a wealth of information about how our food choices are affecting our health and what we can do about it.\n\nNeedless to say, he’s an expert. Dr. Hyman is one of my favorite people to learn from about health because he is so honest about what’s going on. He’s really got humanity’s best interest at heart.\n\nAnd he’s coming out with a new book (which we discuss in our interview)! After listening to this episode, Grab a copy of The Pegan Diet: 21 Practical Principles for Reclaiming Your Health in a Nutritionally Confusing World.\n\nBut for now, join me on Episode 1,075 to learn about how food can heal or harm our bodies, how we can live longer, and how we can improve mental health with Dr. Mark Hyman!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/McjeOAqkkJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/McjeOAqkkJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/McjeOAqkkJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/McjeOAqkkJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/McjeOAqkkJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-20T20:54:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kQaK-X3-Frq4C1rpujyMcKy4NIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iApkwoskJkc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-25T22:31:21Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "PSYCHOLOGICAL TRICKS To Be More Charismatic & Confident TODAY! | Vanessa Van Edwards",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nDownload podcast episodes a week early here! - http://www.lewishowes.com/pod\nGet Vanessa's new book - https://www.scienceofpeople.com/cues/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iApkwoskJkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iApkwoskJkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iApkwoskJkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iApkwoskJkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iApkwoskJkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-25T22:31:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FaTS8yRSMNcxCXhoXEjiQOZBXRw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BiLuLk7Qf2A"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-20T12:32:14Z",
+        "channelId": "UCaYzyfAULwS3QxRX5XbamGg",
+        "title": "Le pouvoir de la confiance en soi. Brian Tracy. Livre audio gratuit",
+        "description": "Maximisez vos forces et surmontez tous les obstacles avec le best-seller de Brian Tracy !\n\nPourquoi certaines personnes ont-elles plus de succès que d'autres? Leur secret est la confiance en soi! Quel grand objectif vous fixeriez-vous si vous saviez que vous ne pouvez pas échouer? Quelles choses merveilleuses voudriez-vous faire de votre vie si le succès de vos tentatives était garanti? Votre niveau de confiance en vous détermine la grandeur des objectifs que vous vous êtes fixés, l'énergie et la détermination sur lesquelles vous vous concentrez, et le degré de persévérance que vous appliquez pour surmonter tous les obstacles. Dans ce livre audio puissant et pratique basé sur un travail avec plus de cinq millions de dirigeants, entrepreneurs, professionnels de la vente et personnes ambitieuses dans plus de 60 pays, vous apprendrez à développer une confiance inébranlable dans tous les domaines de votre vie.\n\nLe pouvoir de la confiance en soi. Brian Tracy. Livre audio gratuit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiLuLk7Qf2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiLuLk7Qf2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiLuLk7Qf2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiLuLk7Qf2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiLuLk7Qf2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Livres audio développement personnel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-20T12:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gw79_4daMAdJXq9Qc7DXro_ujS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y3BH7knu0v8"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-30T22:52:06Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "The 9 STEPS To Find The PERFECT RELATIONSHIP Today! | Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nDownload podcast episodes a week early! http://www.lewishowes.com/pod\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y3BH7knu0v8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y3BH7knu0v8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y3BH7knu0v8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y3BH7knu0v8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y3BH7knu0v8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-30T22:52:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ChSqjQPNJ9PiZtFlHHHOYQHy3K4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oSXpt_fiKSs"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-07T18:23:32Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "The Keys to Persuasion and Powerful Self-Confidence with Ed Mylett and Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nThank you for Watching this powerful video with Ed Mylett!\n\nNew Interviews, and Inspirational videos will be posted every Monday and Wednesday! Subscribe to the channel here: https://goo.gl/9xwmmV \n-----\nLewis Howes' New Book\nhttps://www.maskofmasculinity.com/\n-----\nhttp://www.edmylett.com/\nhttps://twitter.com/EdMylett\nhttps://www.instagram.com/edmylett/\n\nEd is one of the premier business leaders, peak performance experts, and motivational speakers in the world. He has a passion for mentoring and coaching others on what it takes to become a champion in all areas of life. He has shared the stage and has very close personal relationships with other business legends such as Tony Robbins, John Maxwell, Phil Knight and many others.\n\nShow notes available here:\nhttp://lewishowes.com/586\n-----\nYou can follow Lewis at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nSnapChat: https://snapchat.com/add/LewisHowes\n\nLewis Howes is NY Times Bestselling author, entrepreneur, and former professional Arena League football player. He hosts The School of Greatness, a talk show distributed as a podcast. Learn and hear the stories from various successful people around the world, become inspired, motivated and educated with the SCHOOL OF GREATNESS. lewishowes.com/book\n\nThe Keys to Persuasion and Powerful Self-Confidence with Ed Mylett and Lewis Howes\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oSXpt_fiKSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oSXpt_fiKSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oSXpt_fiKSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oSXpt_fiKSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oSXpt_fiKSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-07T18:23:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5GoSYhaPViON-6jW1OJB9Pf1vI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATo9sYax-AQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-31T16:19:51Z",
+        "channelId": "UCuIFW5miIr0y_-SKk3ex5yQ",
+        "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges | Dr. Amy Cuddy | IDEAcademy 2018",
+        "description": "Some of life’s biggest hurdles call for moments of sincerity and control. Too often, we approach these high-pressure moments with fear and execute with anxiety. Based on her best-selling book Presence: Bringing Your Boldest Self to Your Biggest Challenges, Harvard Business School professor and social psychologist Amy Cuddy shares revolutionary research and personal narratives in this impassioned, engaging, and innovative presentation. You will learn simple techniques to complete inner transformation, harness the power of presence, and perform at the highest levels of confidence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eastman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-31T16:19:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t6lQKdAIiCzDca00CNrghLwP0nQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AFllLB6yQrU"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-22T17:35:22Z",
+        "channelId": "UC9xkc8dWgBsFfC7DOJfJLFg",
+        "title": "Amy Cuddy with Susan Cain on Presence",
+        "description": "Millions of people have been empowered by Amy Cuddy’s groundbreaking TED talk — the second most-viewed talk in the history of TED — on body language.\n\nThe Harvard social psychologist’s research has been covered by NPR, The New York Times, Wired, Fast Company and more. She’s been named a Game Changer by Time, one of 50 Women Who Are Changing the World by Business Insider and a Young Global Leader by the World Economic Forum. Now she’s publishing her first book — Presence: Bringing Your Boldest Self to Your Biggest Challenges, in which she explains the science underlying body-mind effects such as ‘power posing,’ and teaches us how to use this science to become self-assured in high pressure moments — job interviews, difficult conversations, speaking up for ourselves and more. She’ll talk with Susan Cain, bestselling author of Quiet: The Power of Introverts in a World That Can’t Stop Talking.\n\nSubscribe for more videos like this: http://bit.ly/1GpwawV\n\nFacebook: http://facebook.com/92ndStreetY\nTwitter: https://twitter.com/92Y\nTumblr: http://92y.tumblr.com/\nInstagram: http://Instagram.com/92ndStreetY\nVine: https://vine.co/92Y\nOn Demand: http://www.92yondemand.org",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFllLB6yQrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFllLB6yQrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFllLB6yQrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AFllLB6yQrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AFllLB6yQrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The 92nd Street Y, New York",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-22T17:35:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FpYFZrAZ_zAzJ5HtlcDyW4XNHu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a6srwAVAWwg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-02T18:42:01Z",
+        "channelId": "UCjQbTcszB-gRhDByY9WhySw",
+        "title": "Leveling Place - Bishop T.D. Jakes",
+        "description": "The worst thing you can do is be too holy for God to use you. Even as a believer, you can enslave yourself by hiding behind your “camouflage.” But God brings us to His temple to re-center us from our haughty, arrogant, and self-absorbed selves to our humble, obedient, and self-aware selves. The leveling place will remind you there is no difference between the sinner and the saint, save for grace!\n\nSubscribe to the official T.D. Jakes Ministries channel to stream our latest messages, your favorite sermons from over the years, and much more.  \n\nHit the 🛎 Notification Bell so that you never miss our most recent video.   \n\nMessage: Leveling Place \nScripture: Luke 18:9-14 KJV\nSpeaker: Bishop T.D. Jakes\nDate: October 2, 2022\n\nAttach your seed to this anointing, sow into good soil! http://bit.ly/2Tx7cFw or text TDJM [space] and dollar amount to 28950 [Example: TDJM 50 (for a donation of $50)]  \n\nFollow Bishop T.D. Jakes on Social Media:\nInstagram: https://www.instagram.com/bishopjakes  \nTwitter: https://www.twitter.com/bishopjakes\nFacebook: https://www.facebook.com/bishopjakes   \n\nAccess sermons, conferences, and more exclusive content:  \nTDJ OnDemand: http://ondemand.tdjakes.org\nBishops Village: https://www.bishopsvillage.com \n\n#LevelingPlace #TPHDallas #SundayService #TDJOnline #HowToFindYourCenter #SpiritualSelfAwareness",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6srwAVAWwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6srwAVAWwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6srwAVAWwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6srwAVAWwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6srwAVAWwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "T.D. Jakes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-02T18:42:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9trA9J5ApUNyJC3v33B2PqV9Q3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XZ_lfAbkNyE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-02T20:59:54Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "How To Break Your FOOD ADDICTION To Lose Weight & LIVE LONGER! | Susan Thompson & Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nIn this episode you will learn:\n\nWhy you should be preplanning your food. \nHow cheat meals can negatively affect your brain.\nThat freedom from food addiction is possible.\nThe importance of self control.\nAnd now, let’s jump into Episode 1,316 of The School of Greatness!\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XZ_lfAbkNyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XZ_lfAbkNyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZ_lfAbkNyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XZ_lfAbkNyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XZ_lfAbkNyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-02T20:59:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jf5n1JSG5zA4WWL9xxCi-cx89Gc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GES8Rh2k8Vs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-07T08:34:54Z",
+        "channelId": "UCZ8Hm9lmsA-T2HSmGmDGqBQ",
+        "title": "Votre Langage Corporel révèle qui vous êtes | Amy Cuddy",
+        "description": "👉 Lisez le livre \"Montrez-leur qui vous êtes\" de Amy Cuddy pour apprendre à modifier votre attitude corporelle, décrypter celle des autres pour améliorer vos compétences sociales et atteindre vos rêves : https://amzn.to/36O5lkm\n\n------------------------------------------ \n\nAutres livres intéressants sur la même thématique (versions Papier / Kindle) : \n\n_ \"Comment se faire des amis\" : https://amzn.to/2RL3M2o\n_ \"Ces gestes qui vous trahissent\" : https://amzn.to/2Ugj294\n_ \"Comment analyser les gens\" : https://amzn.to/3b2fBsr\n_ \"Influence et manipulation\" : https://amzn.to/38XpiH4\n_ \"Je sais que vous mentez\" : https://amzn.to/37LRjBb\n\n------------------------------------------  \n\nDescription vidéo : \n\nLe langage corporel, ou langage non-verbal, a un impact sur la façon dont les autres nous voient, mais il peut aussi changer la façon dont nous nous voyons nous-mêmes.\n\nLa psychologue social Amy Cuddy nous montre comment les postures de pouvoir – se tenir dans une posture qui exprime la confiance, même quand on n’a pas confiance en soi – ont un effet immédiat sur les niveaux de testostérone et de cortisol dans notre cerveau, et ont un impact direct sur la façon dont nous réussissons notre vie.\n\n------------------------------------------\n\nAmy Cuddy est une psychologue sociale américaine, auteur et conférencière. Elle est connue pour avoir fait la promotion de la \"pose de pouvoir\", une technique d'auto-amélioration controversée. Elle a été membre du corps professoral de l'Université Rutgers, de la Kellogg School of Management et de la Harvard Business School. Le travail académique le plus cité de Cuddy se base sur l'utilisation d'un modèle de contenu stéréotypé qu'elle a aidé à développer, afin de mieux comprendre ce que les gens pensent des autres personnes et des groupes stéréotypés. \n\n------------------------------------------ \n\nIntervenante : \n\nAmy Cuddy : https://www.youtube.com/channel/UCcN-XD3TbODV18Ghb_G3DUg/featured\n\nTraduction française : Ascension Succès\n\n------------------------------------------ \n\nÀ propos d'Ascension Succès : \n\nSite Web  :  https://ascension-succes.fr/\nBlog : https://ascension-succes.fr/blog/\nFacebook : https://www.facebook.com/AscensionSucces/\n\n ------------------------------------------ \n\nN'oubliez pas de vous abonner, activer la cloche pour savoir dès qu'une nouvelle vidéo est publiée, et n'hésitez pas à liker et partager la vidéo ! \n\n ------------------------------------------ \n\n#AmyCuddy #LangageCorporel #Communication #NonVerbal",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GES8Rh2k8Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GES8Rh2k8Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GES8Rh2k8Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GES8Rh2k8Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GES8Rh2k8Vs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Succès",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-07T08:34:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KfDdd9LFX9JNzPiKRugg0kLK8I0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ks-_Mh1QhMc"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-01T14:54:47Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Your body language may shape who you are | Amy Cuddy",
+        "description": "Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success. (Note: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read Amy Cuddy's response here: http://ideas.ted.com/inside-the-debate-about-power-posing-a-q-a-with-amy-cuddy/)\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-01T14:54:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wmxCfRUAl5vk5_PxoQG7cIhhNVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IitIl2C3Iy8"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-23T16:41:27Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Six behaviors to increase your confidence | Emily Jaenson | TEDxReno",
+        "description": "Research tells us that the way to get people to change is not to start with trying to change their attitudes alone, but to start with the behaviors associated with the attitudes. When people see themselves behaving differently, they can then think of themselves differently and the attitude change will follow. The six behaviors discussed that you could start today are derived from over 90 interviews with female executives in sports. \n\nEmily Jaenson’s motto is “Be so good they won’t forget you!” and this motto has carried her through her career to land her former role as General Manager of the Triple-A Reno Aces.  Upon accepting this role in 2018, Jaenson became the first female in Triple-A to hold the GM role in nearly 20 years. Jaenson leads a podcast, Leadership is Female, where she interviews executives in sport so that she and her guests can guide the next generation of female leadership forward and leads a team of sports front office veterans in their consulting business. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-23T16:41:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZBJaTUWxKMtaVJ1SWxxzttn_XL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hI9kJuWEuIo"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-29T23:40:43Z",
+        "channelId": "UCkLXELm63_pH7L-r-548kig",
+        "title": "Amy Cuddy - Tips for successful public speaking - Insights for Entrepreneurs - Amazon",
+        "description": "Even if you're prepared, physical signs of nervousness can easily sneak into a presentation. Amy Cuddy offers some very practical advice on how to signal confidence to your body. \n\nAuthor of the New York Times bestseller Presence, Amy Cuddy is known around the world for her 2012 TED Talk, which is the second-most-viewed talk in TED’s history. She is a lecturer at Harvard Business School who studies how non-verbal behavior and snap judgments influence people.\n\nhttp://www.amazon.com/insights/amycuddy\nhttp://www.amazon.com/insights\n\n#DayOneInsights\n#entrepreneurship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hI9kJuWEuIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hI9kJuWEuIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hI9kJuWEuIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hI9kJuWEuIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hI9kJuWEuIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "amazon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-29T23:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JabOEZ0F0sSL51ByQAy9JVGMt84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n6RykDDJzso"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-10T17:43:56Z",
+        "channelId": "UCbV60AGIHKz2xIGvbk0LLvg",
+        "title": "If You're Struggling with LOW SELF-ESTEEM - WATCH THIS | Jay Shetty",
+        "description": "To meditate daily with me go to go.calm.com/youtube now to get 40% off a premium membership. Experience the Daily Jay. Only on Calm\n\nText me: 310-997-4177\n-- \nSubscribe and be a part of the movement to make wisdom go viral: http://bit.ly/2n6hiQP-​​​​\n--\nJoin the conversation by commenting below.\n--\nEnroll in Genius Coaching to improve your life, deepen your relationships and find happiness every day: https://pages.jayshetty.me/genius/​​​​\n--\nCheck Out My New Book, Think Like a Monk: https://thinklikeamonkbook.com/​​​​\n--\nJay Shetty is a storyteller, podcaster, and former monk who wants to make wisdom go viral. He loves taking his own life experiences, lessons from his time as a monk, and truths he has learned to make others’ lives better. \n--\nFollow me on Social Media:\nLinkedIn: https://www.linkedin.com/in/shettyjay...\nFacebook: https://www.facebook.com/JayShettyIW/...\nTwitter: https://twitter.com/jayshettyiw​​​​\nInstagram: https://www.instagram.com/jayshetty​​​​ \nPinterest: https://www.pinterest.co.uk/jayshetty... \n\nSign up for my Viral Wisdom Newsletter: https://jayshetty.me/email",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6RykDDJzso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6RykDDJzso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6RykDDJzso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6RykDDJzso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6RykDDJzso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jay Shetty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-10T17:43:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-sQ3AVceFZLxlQhbNAryWfn2aE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cFLjudWTuGQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-12T21:41:29Z",
+        "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
+        "title": "Make Body Language Your Superpower",
+        "description": "Body language, both the speaker's and the audience's, is a powerful form of communication that is difficult to master, especially if the speaker is nervous. This video will teach you how to use your body language effectively, read the audience's body language and what to do when they look bored or disconnected. Use these tools to enhance your nonverbal communication abilities and better connect with your audiences.\nPresented by Stanford graduate students Matt Levy, Colin Bailie, Jeong Joon Ha, and Jennifer Rosenfeld. Created as an exemplary final project in Lecturer JD Schramm's Strategic Communication course. Learn more about communication techniques and best practices on \"Think Fast, Talk Smart: The Podcast.\" https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stanford Graduate School of Business",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-12T21:41:29Z"
+      }
+    }
+  ]
+}
