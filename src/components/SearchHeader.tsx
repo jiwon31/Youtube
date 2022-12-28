@@ -20,7 +20,7 @@ export default function SearchHeader() {
   return (
     <header className="w-full flex p-4 text-2xl border-b border-zinc-600">
       <Link to="/" className="flex items-center">
-        <AiFillYoutube className=" text-4xl text-brand" />
+        <AiFillYoutube className="text-4xl text-brand" />
         <h1 className="ml-1 font-bold text-3xl">Youtube</h1>
       </Link>
       <form className="w-full flex justify-center" onSubmit={handleSubmit}>

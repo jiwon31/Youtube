@@ -10,7 +10,7 @@ exports[`SearchHeader renders 1`] = `
     onClick={[Function]}
   >
     <svg
-      className=" text-4xl text-brand"
+      className="text-4xl text-brand"
       fill="currentColor"
       height="1em"
       stroke="currentColor"
